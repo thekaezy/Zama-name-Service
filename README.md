@@ -42,17 +42,18 @@ Unlike traditional name services, ZNS ensures that private data remains confiden
 
 ## 📁 Repository Structure
 
+📁 Repository Structure
+
 zama-name-service/
-├── contracts/
-│ └── FHENameService.sol
-├── scripts/
-│ └── deploy.ts
-├── frontend/
-│ ├── pages/
-│ │ └── index.tsx
-│ └── abi/
-│ └── FHENameService.json
-├── hardhat.config.ts
+├── pages/
+│   └── index.tsx
+├── components/
+├── hooks/
+├── lib/
+├── public/
+├── styles/
+├── next.config.mjs
+├── package.json
 └── README.md
 
 yaml
