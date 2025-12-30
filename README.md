@@ -396,9 +396,9 @@ This project is licensed under the **MIT License** - see the (LICENSE) file for 
 ## 👥 Authors
 
 **Your Name**
-- GitHub:  (https://github.com/YOUR_USERNAME](https://github.com/thekaezy/Zama-name-Service))
-- Twitter: (https://twitter.com/YOUR_TWITTER](https://x.com/KaezyXBT))
-- Website: (https://your-website.com](https://zama-name-service.vercel.app/))
+- GitHub:  (https://github.com/thekaezy/Zama-name-Service))
+- Twitter: (https://x.com/KaezyXBT))
+- Website: (https://zama-name-service.vercel.app/))
 
 ---
 
