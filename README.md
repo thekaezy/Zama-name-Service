@@ -321,14 +321,13 @@ contract FHENameService is ZamaEthereumConfig {
 ## 🎨 Screenshots
 
 ### Homepage
-![Homepage](<img width="1903" height="552" alt="image" src="https://github.com/user-attachments/assets/d9396e31-8b0c-4c6d-a9b5-9c52b29449e1" />)
+![Homepage]( <img width="1903" height="552" alt="image" src="https://github.com/user-attachments/assets/d9396e31-8b0c-4c6d-a9b5-9c52b29449e1" /> )
 
 ### Name Registration
-![Register](<img width="1737" height="618" alt="Screenshot 2025-12-30 225400" src="https://github.com/user-attachments/assets/bc903905-a345-4c82-9c42-cca5937dc30c" />
-)
+![Register]( <img width="1737" height="618" alt="Screenshot 2025-12-30 225400" src="https://github.com/user-attachments/assets/bc903905-a345-4c82-9c42-cca5937dc30c" /> )
 
 ### Transaction Confirmation
-![Confirmation](<img width="1640" height="519" alt="image" src="https://github.com/user-attachments/assets/07eabf8b-2768-4262-90dd-52c804848852" />)
+![Confirmation]( <img width="1640" height="519" alt="image" src="https://github.com/user-attachments/assets/07eabf8b-2768-4262-90dd-52c804848852" /> )
 
 ---
 
