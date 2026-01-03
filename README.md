@@ -20,7 +20,7 @@ Zama Name Service (ZNS) is a **privacy-first blockchain naming system** that all
 
 🌐 **Try it now:** (https://zama-name-service.vercel.app/)
 
-📜 **Smart Contract:** `0x9B25734e69D073897fA82CEF5f7A77Adb6450ea7` ([View on Etherscan](https://sepolia.etherscan.io/address/0x9B25734e69D073897fA82CEF5f7A77Adb6450ea7))
+📜 **Smart Contract:** `0x9B25734e69D073897fA82CEF5f7A77Adb6450ea7` ([View on Etherscan](https://sepolia.etherscan.io/address/0x9B25734e69D073897fA82CEF5f7A77Adb6450ea7)
 
 ---
 
